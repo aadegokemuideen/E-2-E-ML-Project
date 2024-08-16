@@ -7,4 +7,6 @@ Agenda:
   b) setup.py
   c) requirements.txt
 
-2-SRC folder and build the package
+2-src folder and build the packages required.
+
+3-
